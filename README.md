@@ -23,3 +23,6 @@ Example Console Return:
 Example Text Output:
 
 ![image](https://github.com/LoganM26/SaveLoadMicroserice/assets/148154868/97fe441a-4730-49d4-b352-1cde072db37e)
+
+UML Sequence Diagram:
+![image](https://github.com/LoganM26/SaveLoadMicroservice/assets/148154868/ded92d38-ca99-4836-9a0f-35e6bf2f1cca)
